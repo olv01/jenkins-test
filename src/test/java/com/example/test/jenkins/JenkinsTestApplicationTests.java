@@ -29,7 +29,7 @@ class JenkinsTestApplicationTests {
 	@Test
 	void test1() {
 		int num = 1;
-		assertThat(num).isEqualTo(1);
+		assertThat(num).isEqualTo(2);
 	}
 
 	@DisplayName("Dummy test 3")
