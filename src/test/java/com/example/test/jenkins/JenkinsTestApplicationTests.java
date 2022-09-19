@@ -21,4 +21,11 @@ class JenkinsTestApplicationTests {
 		assertThat(num).isEqualTo(1);
 	}
 
+	@DisplayName("Dummy test 3")
+	@Test
+	void test2() {
+		String a = "123";
+		assertThat(a).isEqualTo("123");
+	}
+
 }
