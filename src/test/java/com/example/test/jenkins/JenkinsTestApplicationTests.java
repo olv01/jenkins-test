@@ -13,16 +13,6 @@ class JenkinsTestApplicationTests {
 	@Test
 	void contextLoads() {
 
-
-
-
-
-
-
-
-
-
-
 	}
 
 	@DisplayName("Dummy test 2")
